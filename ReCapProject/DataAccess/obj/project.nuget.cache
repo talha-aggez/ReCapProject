@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xx8EUFelSAu5P5yTwezo/52wrCGcL3/087n0JbpgAyFED94MXYtGUvYVmJ39SY67KRBT5eVhxr0WJcmQBOfJug==",
+  "success": true,
+  "projectFilePath": "D:\\Engin Demirog\\ReCapProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
