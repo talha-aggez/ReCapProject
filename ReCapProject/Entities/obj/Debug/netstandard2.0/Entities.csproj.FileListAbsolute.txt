@@ -1,9 +1,0 @@
-D:\Engin Demirog\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
-D:\Engin Demirog\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
-D:\Engin Demirog\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
-D:\Engin Demirog\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
-D:\Engin Demirog\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
-D:\Engin Demirog\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
-D:\Engin Demirog\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
-D:\Engin Demirog\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
-D:\Engin Demirog\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
