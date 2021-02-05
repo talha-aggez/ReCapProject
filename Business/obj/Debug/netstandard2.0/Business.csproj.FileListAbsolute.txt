@@ -1,0 +1,14 @@
+D:\Engin Demirog\ReCapProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\Engin Demirog\ReCapProject\Business\bin\Debug\netstandard2.0\Business.dll
+D:\Engin Demirog\ReCapProject\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\Engin Demirog\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Engin Demirog\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\Engin Demirog\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Engin Demirog\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\Engin Demirog\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\Engin Demirog\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\Engin Demirog\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\Engin Demirog\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\Engin Demirog\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
+D:\Engin Demirog\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
