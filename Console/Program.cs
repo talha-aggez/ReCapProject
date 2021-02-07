@@ -8,20 +8,12 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            CarManager carManager = new CarManager(new EfCarDal(),new EfBrandDal(),new EfColorDal());
-            int i = 0;
-            do
+            CarManager carManager = new CarManager(new EfCarDal());
+            foreach (var item in carManager.GetCarsDetails())
             {
-                Console.WriteLine("0-) Cıkıs 1-) Sil 2-) Ekle 3-) Listele");
-                i = Convert.ToInt32(Console.ReadLine());
-                switch(i){
-                    case 0: Console.WriteLine("Çıkış"); break;
-                    case 1: carManager.Delete(); break;
-                    case 2: carManager.Add();break;
-                    case 3: carManager.GetAll(); break;
-                    default: Console.WriteLine("Yanlış Girdiniz"); break;
-                }
-            } while (i != 0);
+                Console.WriteLine(item.BrandName + " " 
+                    + item.ColorName + " " + item.CarName + " " + item.DailyPrice);
+            }
         }
     }
 }

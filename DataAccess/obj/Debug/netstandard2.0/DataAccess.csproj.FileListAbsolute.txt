@@ -10,3 +10,5 @@ D:\Engin Demirog\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csp
 D:\Engin Demirog\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 D:\Engin Demirog\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
 D:\Engin Demirog\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\Engin Demirog\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb

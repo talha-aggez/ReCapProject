@@ -1,0 +1,9 @@
+D:\Engin Demirog\ReCapProject\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\Engin Demirog\ReCapProject\Core\bin\Debug\netstandard2.0\Core.dll
+D:\Engin Demirog\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\Engin Demirog\ReCapProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\Engin Demirog\ReCapProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\Engin Demirog\ReCapProject\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\Engin Demirog\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\ReCapProject\Core\obj\Debug\netstandard2.0\Core.dll
+D:\Engin Demirog\ReCapProject\Core\obj\Debug\netstandard2.0\Core.pdb

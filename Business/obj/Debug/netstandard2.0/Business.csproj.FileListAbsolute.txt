@@ -12,3 +12,5 @@ D:\Engin Demirog\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.
 D:\Engin Demirog\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 D:\Engin Demirog\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
 D:\Engin Demirog\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\Engin Demirog\ReCapProject\Business\bin\Debug\netstandard2.0\Core.dll
+D:\Engin Demirog\ReCapProject\Business\bin\Debug\netstandard2.0\Core.pdb
