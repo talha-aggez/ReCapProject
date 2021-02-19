@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3Ew6oQoUOgtaJ+QQTMQY3EPhqOwfS3KwthfAzxfEzD9bcAUW4wTMS+EuN3V4vDsP26OsNv2SvhzNnQ2+r8zZwQ==",
+  "dgSpecHash": "zBWV8Wxbs/k3DI4JXrJz3ByxaCjO9NUfTk1ssJLAX2Jf6nGgENxbQqyB5f/jRBo8o6ZUBkQjXnFuCTRWv0tinA==",
   "success": true,
   "projectFilePath": "D:\\Engin Demirog\\ReCapProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

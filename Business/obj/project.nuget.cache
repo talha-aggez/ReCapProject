@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "u2EiNzMGo2kz98ZBiAym+jpkNiRtyTbN/QIkUxEbAYdGgUMjhUBWAOJlBGG/KOWRWa++mVMZPdGQvI8AI0+X6A==",
+  "dgSpecHash": "C9h8O0KWqZQi0pkNMOUf8MuexUgCqBh7fza7t3E5svJ7bqx6YSXMbjyP8R1sHm7sIwYdqNY24n/I0HWVJvmXWg==",
   "success": true,
   "projectFilePath": "D:\\Engin Demirog\\ReCapProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
