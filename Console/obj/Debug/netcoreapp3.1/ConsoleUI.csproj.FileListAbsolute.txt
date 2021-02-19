@@ -60,3 +60,6 @@ D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\n
 D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\Core.dll
 D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\Castle.Core.dll

@@ -57,8 +57,6 @@ D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
 D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
 D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
 D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
-D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
-D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
 D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
 D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
@@ -66,3 +64,9 @@ D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Web
 D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
