@@ -64,3 +64,4 @@ D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\Autofac.dll
 D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
 D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Engin Demirog\ReCapProject\Console\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
