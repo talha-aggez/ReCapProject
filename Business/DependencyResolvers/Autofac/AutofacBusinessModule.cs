@@ -16,6 +16,13 @@ namespace Business.DependencyResolvers.Autofac
     {
         protected override void Load(ContainerBuilder builder)
         {
+            //CarImage...
+            builder
+                .RegisterType<CarImageManager>()
+                .As<ICarImageService>().SingleInstance();
+            builder
+                .RegisterType<EfCarImageDal>()
+                .As<ICarImageDal>().SingleInstance();
             //Brand....
             builder
                 .RegisterType<BrandManager>()

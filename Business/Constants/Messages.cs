@@ -37,5 +37,13 @@ namespace Business.Constants
         public static string Deleted = "Müşteri Silindi";
         public static string CustomerListed = "Müşteri Listelendi";
         public static string CustomerUpdated = "Müşteri Güncellendi";
+        //Car Image Messages
+        public static string CarImageAdded = "Car Image Added";
+        public static string CarImageDeleted = "Car Image Deleted";
+        public static string CarImageListed = "Car Images Listed";
+        public static string CarImageUpdated = "Car Image Updated";
+        public static string CarImageLimitExceded = "Car Image Exceeded";
+        internal static string CarImageEmpty = "File empty";
+        internal static string CarNotFound = "Car Not Found";
     }
 }

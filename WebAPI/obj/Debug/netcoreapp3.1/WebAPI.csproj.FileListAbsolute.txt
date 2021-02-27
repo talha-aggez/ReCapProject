@@ -68,6 +68,11 @@ D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
 D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 D:\Engin Demirog\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\Engin Demirog\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
